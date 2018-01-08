@@ -1,0 +1,17 @@
+.active{
+color: blue;
+}
+
+ul li{
+    list-style: none;
+}
+
+.training-item img{
+    float: left;
+    margin-right: 10px;
+}
+
+.training-item p{
+    width: 100%;
+}
+
